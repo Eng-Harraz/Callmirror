@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallMirror</string>
+    <string name="status_stopped">Service Stopped</string>
+    <string name="status_active">Service Active &amp; Ready</string>
+    <string name="status_listening">Listening for Calls…</string>
+    <string name="status_incoming">Incoming Call Alert</string>
+</resources>
